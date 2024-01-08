@@ -5,7 +5,7 @@ import org.example.calculator.domain.PositiveNumber;
 public class DivisionOperator implements ArithmeticOperator{
     @Override
     public boolean supports(String operator) {
-        return "%2F".equals(operator);
+        return "/".equals(operator);
     }
 
     @Override
