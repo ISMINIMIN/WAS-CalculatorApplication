@@ -1,5 +1,6 @@
-package calculator;
+package org.example.calculator.customwas;
 
+import org.example.calculator.customwas.RequestLine;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

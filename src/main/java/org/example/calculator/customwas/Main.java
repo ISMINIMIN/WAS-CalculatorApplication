@@ -1,4 +1,4 @@
-package calculator;
+package org.example.calculator.customwas;
 
 import java.io.IOException;
 
